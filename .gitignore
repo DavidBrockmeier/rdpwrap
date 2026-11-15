@@ -15,3 +15,6 @@ __history/
 # MSI local stuff
 *.wixobj
 *.wixpdb
+
+# MinGW cross-build output
+.cursor/out/
